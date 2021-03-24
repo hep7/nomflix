@@ -33,7 +33,7 @@
       "react-app/jest"
     ]
   },
-  "homepage": "https://hep7.github.io/nomflix/",
+  "homepage": "https://angry-bohr-fe14dc.netlify.app",
   "browserslist": {
     "production": [
       ">0.2%",
