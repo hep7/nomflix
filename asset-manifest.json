@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.js": "/github.io/nomflix/static/js/main.3a7d41ed.chunk.js",
-    "main.js.map": "/github.io/nomflix/static/js/main.3a7d41ed.chunk.js.map",
-    "runtime-main.js": "/github.io/nomflix/static/js/runtime-main.0bed7373.js",
-    "runtime-main.js.map": "/github.io/nomflix/static/js/runtime-main.0bed7373.js.map",
-    "static/js/2.70e8de29.chunk.js": "/github.io/nomflix/static/js/2.70e8de29.chunk.js",
-    "static/js/2.70e8de29.chunk.js.map": "/github.io/nomflix/static/js/2.70e8de29.chunk.js.map",
-    "index.html": "/github.io/nomflix/index.html",
-    "static/js/2.70e8de29.chunk.js.LICENSE.txt": "/github.io/nomflix/static/js/2.70e8de29.chunk.js.LICENSE.txt"
+    "main.js": "/nomflix/static/js/main.3a7d41ed.chunk.js",
+    "main.js.map": "/nomflix/static/js/main.3a7d41ed.chunk.js.map",
+    "runtime-main.js": "/nomflix/static/js/runtime-main.3d0dc9c1.js",
+    "runtime-main.js.map": "/nomflix/static/js/runtime-main.3d0dc9c1.js.map",
+    "static/js/2.b96cc0c1.chunk.js": "/nomflix/static/js/2.b96cc0c1.chunk.js",
+    "static/js/2.b96cc0c1.chunk.js.map": "/nomflix/static/js/2.b96cc0c1.chunk.js.map",
+    "index.html": "/nomflix/index.html",
+    "static/js/2.b96cc0c1.chunk.js.LICENSE.txt": "/nomflix/static/js/2.b96cc0c1.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.0bed7373.js",
-    "static/js/2.70e8de29.chunk.js",
+    "static/js/runtime-main.3d0dc9c1.js",
+    "static/js/2.b96cc0c1.chunk.js",
     "static/js/main.3a7d41ed.chunk.js"
   ]
 }
