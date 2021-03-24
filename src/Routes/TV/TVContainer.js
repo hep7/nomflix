@@ -23,8 +23,10 @@ class TV extends React.Component {
         data: { results: airingToday },
       } = await tvApi.airingToday();
 
+      
       this.setState({ topRated, popular, airingToday });
-    } catch {
+    } catch(e) {
+      console.log(e);
       this.setState({
         error: "Can't find TV information.",
       });
@@ -35,6 +37,7 @@ class TV extends React.Component {
 
   render() {
     const { topRated, popular, airingTday, loading, error } = this.state;
+    console.log(this.state);
     return (
       <TVPresenter
         topRated={topRated}
